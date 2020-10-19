@@ -1,0 +1,25 @@
+{
+  "name": "apibbva",
+  "version": "1.0.0",
+  "description": "Esta es una api de consulta para el hackathon del programa BIT de BBVA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloMendozaxd/BITBBVA.git"
+  },
+  "keywords": [
+    "bbva"
+  ],
+  "author": "José Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloMendozaxd/BITBBVA/issues"
+  },
+  "homepage": "https://github.com/PabloMendozaxd/BITBBVA#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
